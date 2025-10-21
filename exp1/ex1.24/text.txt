@@ -1,0 +1,6 @@
+(hello
+this	 {is the}     test
+i    have written{ the[     ]program to te}st the file
+tes{)ting 	...
+(done
+
